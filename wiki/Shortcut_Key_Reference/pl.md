@@ -53,7 +53,7 @@ Wybór utworów
 -   **Shift + F2**: Powraca do poprzedniej mapy po użyciu F2
 -   **F3**: Opcje mapy.
 -   **F5**: Odświeża listę (tryb naprawy)
--   **Shift + Delete**: Kasuje wybraną mapy
+-   **Shift + Delete**: Kasuje wybraną mapę
 -   **Ctrl + (1/2/3/4)**:Zmienia na ![osu! Icon](/wiki/shared/mode/osu.png "osu! Icon") [osu! Standard](/wiki/Game_Modes/osu!)/ ![osu!taiko Icon](/wiki/shared/mode/taiko.png "osu!taiko Icon") [Taiko](/wiki/Game_Modes/osu!taiko) / ![osu!catch Icon](/wiki/shared/mode/catch.png "osu!catch Icon") [Catch the Beat](/wiki/Game_Modes/osu!catch) / ![osu!mania Icon](/wiki/shared/mode/mania.png "osu!mania Icon") [osu!mania](/wiki/Game_Modes/osu!mania) tryb gry odpowiednio.
 -   **Ctrl + Enter**: Odtwarza mapę z modyfikacją [Auto](/wiki/Game_Modifiers)
 -   **Ctrl + Shift + Enter**: Odtwarza wybraną mapę z modyfikacją Cinema
